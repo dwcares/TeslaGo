@@ -6,37 +6,40 @@ Tesla Go is a simple app that helps you start your day allowing you to intellige
 * Schedule your car to finish charging before you plan to start your roadtrip
 * Defrost the windows every weekday morning if frost is forecasted
 
-    ### Sprint 0 
-    * Architecture decisions 
-    * Tesla API capability exploration
 
-    ### Sprint 1
-    * Create basic website and publish
-    * Create secure auth; planned: OpenID (e.g. Login with Facebook)
-    * Implement keyvault for Tesla OAuth token
-    * Display text based car information
+## Draft Schedule 
 
-    ### Sprint 2
-    * Implement backend to persist scenario by user
-    * Implement schedule climate scenario with no customization as PoC
+### Sprint 0 
+* Architecture decisions 
+* Tesla API capability exploration
 
-    ### Sprint 3
-    * Build flexible UI to support creating scheduled "Tasks"
-    * Display static climate scenario in flexible UI
+### Sprint 1
+* Create basic website and publish
+* Create secure auth; planned: OpenID (e.g. Login with Facebook)
+* Implement keyvault for Tesla OAuth token
+* Display text based car information
 
-    ### Sprint 4
-    * Implement adding/removing scenarios with limited customization 
+### Sprint 2
+* Implement backend to persist scenario by user
+* Implement schedule climate scenario with no customization as PoC
 
-    ### Sprint 5
-    * Example scenarios are supported with no 3rd party service integration
-    * UI Polish
+### Sprint 3
+* Build flexible UI to support creating scheduled "Tasks"
+* Display static climate scenario in flexible UI
 
-    ### Sprint 6 - v1.0.0-Alpha1
-    * Release initial Alpha to limited testers
-    * Collect blocking bugs
+### Sprint 4
+* Implement adding/removing scenarios with limited customization 
 
-    ### Sprint 7 - v1.0.0-Beta1
-    * Initial Beta
+### Sprint 5
+* Example scenarios are supported with no 3rd party service integration
+* UI Polish
+
+### Sprint 6 - v1.0.0-Alpha1
+* Release initial Alpha to limited testers
+* Collect blocking bugs
+
+### Sprint 7 - v1.0.0-Beta1
+* Initial Beta
 
 ## Background
 [Original Redit Post](https://www.reddit.com/r/teslamotors/comments/9joh3c/ill_build_your_unofficial_tesla_owner_app_or/)
